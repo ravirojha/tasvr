@@ -1,1 +1,1 @@
-# TasVr
+# TasVr - A photo sharing app
